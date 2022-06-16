@@ -1,6 +1,7 @@
 # RMS
 Registration Management System
 A registration management sytem including three type of users; admin, student and professor. 
+
 Definition of the Problem:
 
 My mission in this project assignment is to construct a simple Registration Management System (RMS) for an academic institution using PHP technology, Apache Web Server (XAMPP tool etc) and MySQL database. There will be three types of users in the system: Administrator, Professors and Students. Each user of the system will have a unique username and a password.
