@@ -1,0 +1,46 @@
+
+
+.container1 {
+box-shadow: 10px 5px 9px 0px rgba(111, 128, 108, 0.78);
+background-color: #E8F6EF;
+margin-top: 20px;
+position: relative;
+top: 100px;
+left: 100px;
+width: 300px;
+height: 100px;
+border-radius: 50px;
+}
+
+
+
+p {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.bottom {
+  border: 1px dotted #E8F6EF;
+  
+  text-align: center;
+  position: fixed;
+  margin: 30px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+a:hover {
+  color: darkslategrey !important;
+}
+
+.btn-custom {
+  color: #fff;
+  background-color: #E8F6EF;
+  border-color: #E8F6EF;
+}
